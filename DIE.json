@@ -1,10 +1,6 @@
-            {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update",
-    "opentime":" Wait For Some Time ⚡",
-    "libs":"https://github.com/zordxmars/DIE/raw/refs/heads/main/libbgmi.zip",
-    "notice_title":"BGMI LIBRARY LOADED",
-    "notice_body":"😘❤️"
+{
+  "Status": true,
+  "version": 2,
+  "libs": "https://github.com/kaushikhaxor/Projects/raw/refs/heads/main/Kaushik_payload.png",
+  "Dlib": false
 }
