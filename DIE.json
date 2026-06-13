@@ -1,6 +1,10 @@
-{
-  "Status": true,
-  "version": 2,
-  "libs": "https://github.com/zordxmars/Projects/raw/refs/heads/main/Screenshot_20260608-215300_Battlegrounds India.jpg",
-  "Dlib": false
+            {
+    "serverstatus":"true",
+    "noticemode":"true",
+    "dataclearmode":"false",
+    "servermeassage":"Wait We Are Working On a new Update",
+    "opentime":" Wait For Some Time ⚡",
+    "libs":"https://github.com/zordxmars/DIE/raw/refs/heads/main/libbgmi.zip",
+    "notice_title":"ONLINE",
+    "notice_body":"❤️😚"
 }
